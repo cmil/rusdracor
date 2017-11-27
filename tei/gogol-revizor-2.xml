@@ -4,7 +4,7 @@
   <teiHeader>
     <fileDesc>
       <titleStmt>
-        <title type="main" xml:lang="ru">Ревизор</title>
+        <title type="main" xml:lang="ru">Ревизор II</title>
         <title type="main" xml:lang="en">The Government Inspector</title>
         <title type="sub" xml:lang="ru">Комедия в пяти действиях</title>
         <title type="sub" xml:lang="en">A Comedy in Five Acts</title>
@@ -149,15 +149,7 @@
     </profileDesc>
     <revisionDesc>
       <listChange>
-        <change who="#ds" when="2017-03-31">converted from source</change>
-        <change who="#GG" when="2017-03-31">changed Zemljanika and ArtemijFilippovich to
-          ArtemijFilippovichZemljanika, Ljapkin-Tjapkin and AmmosFedorovich to
-          AmmosFedorovichLjapkinTjapkin</change>
-        <change who="#ff" when="2017-05-30">added missing castGroups to castList; normalised
-          punctuation</change>
-        <change who="#to" when="2017-06-04">gender</change>
-        <change who="#ff" when="2017-07-10">formalities</change>
-        <change who="#cm" when="2017-11-27">webhook testing</change>
+        <change who="#cm" when="2017-11-27">webhook testing adding</change>
       </listChange>
     </revisionDesc>
   </teiHeader>
